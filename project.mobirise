@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fwdhi4-2-20",
-    "currentPage": "sample-inspection-reports.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -800,7 +800,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": "7000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": false,
             "slides": [
               {
@@ -845,7 +845,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/blue-house6.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -886,7 +886,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/free-3-ring-binder15.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
