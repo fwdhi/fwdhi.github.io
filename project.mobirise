@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fwdhi4-2-20",
-    "currentPage": "index.html",
+    "currentPage": "inspection-images.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -845,7 +845,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/blue-house6.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -886,7 +886,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/free-3-ring-binder15.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -7931,7 +7931,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Aerial view of roof",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -7944,7 +7944,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "High soil",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
